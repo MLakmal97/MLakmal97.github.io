@@ -4,6 +4,7 @@ body
     font-family: 'Segoe UI', sans-serif;
     background: white;
     color: #333;
+    padding-top: 100px;
 }
 
 .header-logo 
@@ -92,11 +93,11 @@ body
     }
 }
 
-/*footer 
+footer 
 {
     background: gray;
     color: white;
     text-align: center;
     padding: 1rem;
     display: block;
-}*/
+}
